@@ -1,0 +1,22 @@
+{
+  "hieroglyphs": [
+    {
+      "id": 1,
+      "hieroglyph": "𓀀",
+      "transliteration": "ꜥ",
+      "category": "A",
+      "description": "Representação de um homem",
+      "sound": "ʕ",
+      "image": "image_1.png"
+    },
+    {
+      "id": 2,
+      "hieroglyph": "𓁐",
+      "transliteration": "s",
+      "category": "B",
+      "description": "Representação de uma mulher",
+      "sound": "s",
+      "image": "image_2.png"
+    }
+  ]
+}

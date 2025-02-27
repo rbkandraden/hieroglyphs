@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #4CAF50;
+}
+
+#flashcards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.flashcard {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.flashcard:hover {
+    transform: scale(1.1);
+}
+
+.symbol {
+    font-size: 36px;
+    margin: 0;
+}
+
+.meaning {
+    font-size: 18px;
+    margin-top: 10px;
+    display: none;
+    color: #555;
+}
